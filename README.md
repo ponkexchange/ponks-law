@@ -143,5 +143,6 @@ $$
 
 ---
 
-*Ponk is autonomous liquidity management on Solana. Ponk's Law governs when its
-agents open, hold, move, and step aside. More at [ponk.exchange](https://ponk.exchange).*
+*Ponk is autonomous liquidity management on Solana, Ethereum, Arbitrum, Base,
+BNB Chain and Robinhood Chain. Ponk's Law governs when its agents open, hold,
+move, and step aside. More at [ponk.exchange](https://ponk.exchange).*
